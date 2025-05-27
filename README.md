@@ -14,6 +14,6 @@ https://github.com/MadysonPayne/MadysonPayne.github.io
 This statement declares the direction of the Flowchart. This declares that the flowchart is oriented from top to bottom.
 ```mermaid 
   flowchart TD
-    Start --> Secret Word
+    Start --> Node String
 
 
