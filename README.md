@@ -9,13 +9,8 @@ https://github.com/MadysonPayne/MadysonPayne.github.io
 ## Websites I recommend 
   - [Wikipedia] (https://wikipedia.org) - Wikipedia is a comprehensive online encyclopedia, offering a vast repository of knowledge on various topics. 
   - [GigaBrain] (https://thegigabrain.com) - This website is a neat alternative for googling with answers from real people.
-# DDoS_Attack_Sequence.md.
-sequenceDiagram
-    participant Attacker
-    participant Botnet
-    participant Webserver
-    participant Firewall
-    Attacker->>Firewall: Attack Request
-    Firewall->>Botnet: Blocked Request
-    Firewall->>Webserver: Allowed Request
-    Webserver->>Webserver: Process Request
+# Guessing.md
+'''mermaid 
+flowchart TD 
+Start([Start)]-->End([End)]
+'''
