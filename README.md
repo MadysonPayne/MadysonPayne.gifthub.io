@@ -13,5 +13,5 @@ https://github.com/MadysonPayne/MadysonPayne.github.io
 
 ```mermaid 
   flowchart TD
-    Start([Start)]-->End([End)]
+    Start --> End
 '''
