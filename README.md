@@ -9,4 +9,13 @@ https://github.com/MadysonPayne/MadysonPayne.github.io
 ## Websites I recommend 
   - [Wikipedia] (https://wikipedia.org) - Wikipedia is a comprehensive online encyclopedia, offering a vast repository of knowledge on various topics. 
   - [GigaBrain] (https://thegigabrain.com) - This website is a neat alternative for googling with answers from real people.
+# DDoS_Attack_Sequence.md.
+'''mermaid
+sequenceDiagram 
+participant Attacker
+participant BotNet 
+participant WebServer
+participant Firewall
 
+
+'''
