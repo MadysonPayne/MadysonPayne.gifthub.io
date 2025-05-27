@@ -11,8 +11,9 @@ https://github.com/MadysonPayne/MadysonPayne.github.io
   - [GigaBrain] (https://thegigabrain.com) - This website is a neat alternative for googling with answers from real people.
 # Guessing.md
 
+This statement declares the direction of the Flowchart. This declares that the flowchart is oriented from top to bottom.
 ```mermaid 
   flowchart TD
     Start --> End
 
-This statement declares the direction of the Flowchart. This declares that the flowchart is oriented from top to bottom. 
+
